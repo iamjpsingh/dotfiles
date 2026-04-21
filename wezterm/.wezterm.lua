@@ -6,7 +6,7 @@ return {
 	enable_tab_bar = false,
 	font_size = 16.0,
 	enable_kitty_graphics = true,
-	font = wezterm.font("JetBrainsMono Nerd Font"),
+	font = wezterm.font("JetBrains Mono"),
 	-- macos_window_background_blur = 40,
 	macos_window_background_blur = 30,
 	-- window_background_image = '/Users/jpsingh/Downloads/landscape-house-in-mountains-desktop-wallpaper.jpg',

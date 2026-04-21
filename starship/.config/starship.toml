@@ -7,9 +7,8 @@ right_format = """$all"""
 command_timeout = 1000
 
 [character]
-vicmd_symbol = '[N >>>](bold yellow)'
+vicmd_symbol = "[N] >>>"
 success_symbol = '[➜](bold green)'
-error_symbol = '[✗](bold red)'
 
 [directory.substitutions]
 '~/tests/starship-custom' = 'work-project'
